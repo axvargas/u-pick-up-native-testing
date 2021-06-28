@@ -1,0 +1,12 @@
+{% comment %} /*
+ * Created Date: Sunday June 27th 2021 12:31:04 pm
+ * Author: Andrés X. Vargas
+ * -----
+ * Last Modified: Sunday June 27th 2021 12:31:05 pm
+ * Modified By: the developer known as Andrés X. Vargas at <axvargas@fiec.espol.edu.ec>
+ * -----
+ * Copyright (c) 2021 MattuApps
+ */ {% endcomment %}
+
+adb devices -l
+adb shell "dumpsys activity activities | grep mResumedActivity"
