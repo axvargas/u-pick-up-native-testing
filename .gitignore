@@ -1,0 +1,15 @@
+# /*
+#  * Created Date: Sunday June 27th 2021 2:30:23 am
+#  * Author: Andrés X. Vargas
+#  * -----
+#  * Last Modified: Sunday June 27th 2021 2:30:24 am
+#  * Modified By: the developer known as Andrés X. Vargas at <axvargas@fiec.espol.edu.ec>
+#  * -----
+#  * Copyright (c) 2021 MattuApps
+#  */
+venv
+open_calculator.py
+sum_numbers.py
+test_play_store.py
+reports/report_test
+__pycache__
